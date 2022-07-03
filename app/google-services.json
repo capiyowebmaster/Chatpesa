@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98008633339",
+    "project_id": "chatpesa-dff88",
+    "storage_bucket": "chatpesa-dff88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98008633339:android:4a2a84a40d1ecdce8cc55e",
+        "android_client_info": {
+          "package_name": "com.example.chatpesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98008633339-fahbnpmeeseeubi40jhou4d6hahd8f33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIKUmVW6p7SG7GsSS_CB5069lVjHfkFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98008633339-fahbnpmeeseeubi40jhou4d6hahd8f33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
